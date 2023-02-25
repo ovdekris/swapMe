@@ -1,0 +1,9 @@
+.header__panel{
+    display: flex;
+    height: 22px;
+    justify-content: space-between;
+    width: 280px;
+}
+.header__panel img:hover{
+    cursor: pointer;
+}
